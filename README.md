@@ -22,15 +22,6 @@ This project was built from scratch to demonstrate key MERN stack concepts, incl
 
 <br>
 
-## 📸 Screenshots
-
-*(You should add your own screenshots here. Take a picture of the home page and the course detail page)*
-
-| Course List Page | Course Detail Page |
-| :---: | :---: |
-|  |  |
-
-<br>
 
 ## 🛠 Tech Stack
 
@@ -66,13 +57,13 @@ Follow these instructions to get a copy of the project running on your local mac
 
 1.  **Clone the Repository** (if you haven't)
     ```bash
-    git clone [https://your-repo-link.com/study-hub.git](https://your-repo-link.com/study-hub.git)
-    cd study-hub
+    git clone [https://github.com/Abhiroop-011/mern-study-hub-project]
+    cd mern-study-hub-project
     ```
 
 2.  **Navigate to the Backend Folder**
     ```bash
-    cd study-hub-api
+    cd Study_Hub_Backend
     ```
 
 3.  **Install Dependencies**
@@ -81,7 +72,7 @@ Follow these instructions to get a copy of the project running on your local mac
     ```
 
 4.  **Create `.env` File**
-    Create a file named `.env` in the `study-hub-api` root folder. Get your connection string from MongoDB Atlas and paste it here.
+    Create a file named `.env` in the `Study_Hub_Backend` root folder. Get your connection string from MongoDB Atlas and paste it here.
     ```
     MONGO_URI=mongodb+srv://<username>:<password>@<clustername>.mongodb.net/studyhub?retryWrites=true&w=majority
     PORT=5000
@@ -142,8 +133,8 @@ The backend provides the following RESTful API endpoints:
 
 *(Here you would add links to your live, deployed application. You can use services like Vercel/Netlify for the React frontend and Render/Heroku for the Express backend.)*
 
-* **Live Frontend (React):** `[Link to your Vercel/Netlify deployment]`
-* **Live Backend (Express):** `[https://mern-study-hub-project.onrender.com]`
+* **Live Frontend (React):** [https://mernstudyhub.netlify.app/](https://mernstudyhub.netlify.app/)
+* **Live Backend (Express):** [https://mern-study-hub-project.onrender.com](https://mern-study-hub-project.onrender.com)
 
 **Note:** When deploying, you must update the `baseURL` in `study-hub-client/src/services/api.js` to point to your live backend URL, not `http://localhost:5000`. You also need to configure CORS on your backend to allow requests from your live frontend URL.
 
@@ -152,6 +143,6 @@ The backend provides the following RESTful API endpoints:
 ## 👤 Author
 
 * **ABHIROOP**
-* GitHub: `[https://github.com/Abhiroop-011]`
+* GitHub: [https://github.com/Abhiroop-011](https://github.com/Abhiroop-011)
 
 <br>
