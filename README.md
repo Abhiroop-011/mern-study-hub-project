@@ -1,3 +1,11 @@
+## 🚢 Deployment Links
+
+
+* **Live Frontend (React):** [https://mernstudyhub.netlify.app/](https://mernstudyhub.netlify.app/)
+* **Live Backend (Express):** [https://mern-study-hub-project.onrender.com](https://mern-study-hub-project.onrender.com)
+* pushed in front for easy evaluatiion of project
+
+* 
 # Study Hub: A MERN Stack Application
 
 Study Hub is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to help students organize their studies. It provides a platform where users can create courses and then add, view, and delete study notes associated with each course.
@@ -129,9 +137,8 @@ The backend provides the following RESTful API endpoints:
 
 <br>
 
-## 🚢 Deployment
+## 🚢 Deployment Links
 
-*(Here you would add links to your live, deployed application. You can use services like Vercel/Netlify for the React frontend and Render/Heroku for the Express backend.)*
 
 * **Live Frontend (React):** [https://mernstudyhub.netlify.app/](https://mernstudyhub.netlify.app/)
 * **Live Backend (Express):** [https://mern-study-hub-project.onrender.com](https://mern-study-hub-project.onrender.com)
