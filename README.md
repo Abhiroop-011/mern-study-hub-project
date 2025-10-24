@@ -151,11 +151,7 @@ The backend provides the following RESTful API endpoints:
 
 ## 👤 Author
 
-* **(Your Name / GitHub Username)**
+* **ABHIROOP**
 * GitHub: `[https://github.com/Abhiroop-011]`
 
 <br>
-
-## 📄 License
-
-This project is licensed under the MIT License.
