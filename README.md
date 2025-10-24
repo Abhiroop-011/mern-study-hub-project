@@ -143,7 +143,7 @@ The backend provides the following RESTful API endpoints:
 *(Here you would add links to your live, deployed application. You can use services like Vercel/Netlify for the React frontend and Render/Heroku for the Express backend.)*
 
 * **Live Frontend (React):** `[Link to your Vercel/Netlify deployment]`
-* **Live Backend (Express):** `[Link to your Render/Heroku deployment]`
+* **Live Backend (Express):** `[https://mern-study-hub-project.onrender.com]`
 
 **Note:** When deploying, you must update the `baseURL` in `study-hub-client/src/services/api.js` to point to your live backend URL, not `http://localhost:5000`. You also need to configure CORS on your backend to allow requests from your live frontend URL.
 
